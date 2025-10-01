@@ -4,6 +4,4 @@ title: Teaching
 permalink: /teaching/
 ---
 
-# Teaching
-
-Zde bude obsah stránky Teaching.
+**[VŠE](/teaching/vse-me/)**
