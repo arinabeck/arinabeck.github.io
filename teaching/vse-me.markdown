@@ -10,7 +10,7 @@ permalink: /teaching/vse-me/
 |------------|------|--------|----------|---------------------------|
 | 17. 09. 2025 | Úvod |         |          | |
 | 24. 09. 2025 | Matice, hodnost matice, LN a LZ vektorů | [Jak to spočítám](/assets/files/jaktospocitam.pdf) |     str. 31-32     | [Cvičení 2](/assets/files/cviceni2.pdf) |
-| 01. 10. 2025 | Soustavy lineárních rovnic | [Jak to spočítám](/assets/files/Jaktospocitam3.pdf) |   str. 44-46       | [Cvičení 3](/assets/files/cviceni3.pdf) |
+| 01. 10. 2025 | Soustavy lineárních rovnic | [Jak to spočítám](/assets/files/Jaktospocitam3.pdf) |   str. 44-46       | [Cvičení 3](/assets/files/cviceni3.pdf), [Lineární kombinace](/assets/files/linkombinace.pdf) |
 | 08. 10. 2025 | Operace s maticemi, inverzní matice |  | str. 65-67 |  |
 | 15. 10. 2025 |  |  |  |  |
 
