@@ -9,7 +9,7 @@ permalink: /teaching/vse-me/
 | Datum      | Téma | Teorie | Příklady | Vzorově vyřešené příklady |
 |------------|------|--------|----------|---------------------------|
 | 17. 09. 2025 | Úvod |         |          | |
-| 24. 09. 2025 | Matice, hodnost matice, LN a LZ vektorů | [Jak to spočítám](/assets/files/jaktospocitam2.pdf) |          | [Cvičení 2](/assets/files/cviceni2.pdf) |
+| 24. 09. 2025 | Matice, hodnost matice, LN a LZ vektorů | [Jak to spočítám](/assets/files/jaktospocitam.pdf) |          | [Cvičení 2](/assets/files/cviceni2.pdf) |
 | 01. 10. 2025 | Soustavy lineárních rovnic | [Jak to spočítám](/assets/files/Jaktospocitam3.pdf) |          | [Cvičení 3](/assets/files/cviceni3.pdf) |
 
 Zde bude obsah stránky Matematika pro ekonomy.
