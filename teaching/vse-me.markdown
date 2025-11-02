@@ -19,4 +19,4 @@ permalink: /teaching/vse-me/
 Řešení vybraných zkouškových příkladů(postupně doplňováno): [PDF](/assets/files/resenizkousek.pdf) 
 
 
-Průběžná písemka se píše na cvičení dne 12.11.2025. Vzorová písemka [zde](/assets/files/vzor.pdf).
+Průběžná písemka se píše na cvičení dne 12.11.2025. Vzorová písemka [zde](/assets/files/pis.pdf).
