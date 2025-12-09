@@ -19,7 +19,7 @@ permalink: /teaching/vse-me/
 | 12. 11. 2025 | Test, analýza fce | | |   |
 | 19. 11. 2025 | Taylor, l'Hospitalovo pravidlo| | |   |
 | 26. 11. 2025 | Integrály | | |  |
-| 03. 12. 2025 | Integrály | |str. 159-162 |  [Cvičení ](/assets/files/Integrál.pdf)  |
+| 03. 12. 2025 | Integrály | |str. 159-162 |  [Cvičení](/assets/files/Integrál.pdf)  |
 | 10. 12. 2025 | lokální vázané extrémy, DIFERENCIÁLNÍ ROVNICE| | |  |
 Řešení vybraných zkouškových příkladů(postupně doplňováno): [PDF](/assets/files/resenizkousek.pdf) 
 
