@@ -15,7 +15,12 @@ permalink: /teaching/vse-me/
 | 15. 10. 2025 | Determinanty, Cramerovo pravidlo, vlastní čísla | |str. 79-81   | [Cvičení 5](/assets/files/cvičení 5.pdf) |
 | 22. 10. 2025 | Limity | |str. 99-100 |  [Cvičení 6](/assets/files/limity.pdf)  |
 | 29. 10. 2025 | Derivace | |str. 123 |  [Cvičení 7](/assets/files/Derivace.pdf)  |
-
+| 05. 11. 2025 |INOVAČNÍ TÝDEN | | |   |
+| 12. 11. 2025 | Test, analýza fce | | |   |
+| 19. 11. 2025 | Taylor, l'Hospitalovo pravidlo| | |   |
+| 26. 11. 2025 | Integrály | | |  |
+| 03. 12. 2025 | Integrály | |str. 159-162 |  [Cvičení ](/assets/files/Integrál.pdf)  |
+| 10. 12. 2025 | lokální vázané extrémy, DIFERENCIÁLNÍ ROVNICE| | |  |
 Řešení vybraných zkouškových příkladů(postupně doplňováno): [PDF](/assets/files/resenizkousek.pdf) 
 
 
